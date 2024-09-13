@@ -11,6 +11,6 @@ class Doctor:
         print(f"Dr. {self.name} specializes in {self.specialization} with {self.years_of_experience} years of experience.")
 
 # Example of creating an object
-doctor1 = Doctor("Emily Clark", "Pediatrics", 10)
+doctor1 = Doctor("Ritah", "Pediatrics", 10)
 doctor1.get_info()
-doctor1.treat_patient("John Doe")
+doctor1.treat_patient("Mercy")
